@@ -1,6 +1,15 @@
-## Welcome to GitHub Pages
+## Administracion de Redes
 
-Esta pagina sera creada por Juan Leon para SENA
+Definicion
+
+Los administradores de redes informáticas diseñan, desarrollan y mantienen los sistemas de comunicación y las redes informáticas utilizadas en muchas empresas grandes. Una red es un grupo de ordenadores conectadas conectados entre sí, por lo general, a través de un ordenador potente llamado servidor central.
+
+Las redes ofrecen una serie de ventajas para las empresas, por ejemplo:
+El personal de la empresa puede compartir información y recursos.
+El personal puede trabajar en equipo en proyectos comunes, incluso si se encuentran en diferentes oficinas.
+La información (por ejemplo, sobre los clientes, el número total de las ventas o consultas, o la información financiera) se pueden registrar y analizar de forma centralizada.
+Los equipamientos tales como impresoras y escáneres pueden estar conectados con un grupo de usuarios comunes.
+El personal puede comunicarse con facilidad y rapidez, utilizando el correo electrónico a través de la red.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
