@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Esta pagina sera creada por Juan leon(https://github.com/juanleon124/OVI-Administracion-de-Redes/edit/master/README.md) 
+Esta pagina sera creada por Juan leon(https://github.com/juanleon124/OVI-Administracion-de-Redes/edit/master/README.md) para SENA
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
