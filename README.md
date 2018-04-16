@@ -12,7 +12,7 @@ Los equipamientos tales como impresoras y escáneres pueden estar conectados con
 El personal puede comunicarse con facilidad y rapidez, utilizando el correo electrónico a través de la red.
 
 
-### ADMINISTRACION DE RED
+### LECTURA DE ADMINISTRACION DE RED
 
 La administración de red proporciona seguridad informática este tema en la actualidad es muy importante es un tema de vital importancia en todas las empresas u organizaciones ya que requieren de seguridad informática para sus herramientas tecnológicas el objetivo de este OVI es dar a entender o mostrar la gran importancia de la seguridad informática en la red conociendo los riegos o amenazas, pero sobre todo conociendo como bloquearlas o eliminarlas.
 
@@ -36,6 +36,9 @@ Hace la red más segura, protegiéndola contra el acceso no autorizado, haciendo
 La Red en malla es una topología de red en la que cada nodo está conectado a uno o más de los otros nodos. De esta manera es posible llevar los mensajes de un nodo a otro por diferentes caminos.
 
 Estas redes permiten en caso de una iteración entre dos nodos o equipos terminales de red, mantener el enlace usando otro camino con lo cual aumenta significativamente la disponibilidad de los enlaces.
+
+### MULTIMEDIA 
+
 
 ### CONTACTO 
 PRESENTADO POR : JUAN SEBASTIAN LEON BAEZ 
