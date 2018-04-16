@@ -39,8 +39,12 @@ Estas redes permiten en caso de una iteración entre dos nodos o equipos termina
 
 ### CONTACTO 
 PRESENTADO POR : JUAN SEBASTIAN LEON BAEZ 
+
 CORREO:leon.475@hotmail.com
+
 SKY:juanbaez123
+
 DISEÑO DE SITIOS WEB
+
 ADMINISTRACIÓN DE REDES
 
