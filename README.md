@@ -37,6 +37,14 @@ La Red en malla es una topología de red en la que cada nodo está conectado a u
 
 Estas redes permiten en caso de una iteración entre dos nodos o equipos terminales de red, mantener el enlace usando otro camino con lo cual aumenta significativamente la disponibilidad de los enlaces.
 
+### LECTURAS 
+
+Lectura 1 https://docs.wixstatic.com/ugd/dcc0d9_0775065348cb40519f7838d2ebe2a280.pdf
+
+Lectura 2 https://docs.wixstatic.com/ugd/dcc0d9_ed7c23c21b23438fb48f04314038da5b.pdf
+
+Lectura 3 https://docs.wixstatic.com/ugd/dcc0d9_d9bc200ca28043fb83f47fb5c4bb928a.pdf
+
 ### MULTIMEDIA 
 VIDEO 1 https://www.youtube.com/watch?v=iWiMQlMVyQg&t=143s
 
