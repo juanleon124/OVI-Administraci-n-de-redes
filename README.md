@@ -33,8 +33,14 @@ Mejorar la continuidad en la operación de la red con mecanismos adecuados de co
 
 Hace la red más segura, protegiéndola contra el acceso no autorizado, haciendo imposible que personas ajenas puedan entender la información que circula en ella.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/juanleon124/OVI-Administracion-de-Redes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+La Red en malla es una topología de red en la que cada nodo está conectado a uno o más de los otros nodos. De esta manera es posible llevar los mensajes de un nodo a otro por diferentes caminos.
 
-### Support or Contact
+Estas redes permiten en caso de una iteración entre dos nodos o equipos terminales de red, mantener el enlace usando otro camino con lo cual aumenta significativamente la disponibilidad de los enlaces.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### CONTACTO 
+PRESENTADO POR : JUAN SEBASTIAN LEON BAEZ 
+CORREO:leon.475@hotmail.com
+SKY:juanbaez123
+DISEÑO DE SITIOS WEB
+ADMINISTRACIÓN DE REDES
+
