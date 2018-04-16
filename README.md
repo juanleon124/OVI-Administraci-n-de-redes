@@ -39,7 +39,9 @@ Estas redes permiten en caso de una iteración entre dos nodos o equipos termina
 
 ### MULTIMEDIA 
 VIDEO 1 https://www.youtube.com/watch?v=iWiMQlMVyQg&t=143s
+
 VIDEO 2 https://www.youtube.com/watch?v=oCwszrKxs9Q&t=66s
+
 VIDEO 3 https://www.youtube.com/watch?v=W2iaqnA1Y8E
 
 
