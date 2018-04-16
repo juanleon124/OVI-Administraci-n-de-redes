@@ -26,32 +26,12 @@ La administración de datos de redes se apoya en numeroso software que ayudan al
 Por último la administración de red  es un conjunto de técnicas   para mantener una red operativa eficiente,segura,y constantemente monitoreada y con una planeación adecuada y propiamente documentada para mejorar la continuidad en la operación de la red con mecanismos adecuados para la solución de problemas y suministro de recursos logrando hacer que la red este más segura protegiéndola  en contra del acceso no autorizado haciendo imposible que personas ajenas pueden ver o leer la información que circula en esta red.
 
 
+### ADMINISTRACIÓN DE RED
+Hace uso eficiente de la red y utilizar mejor los recursos, como el ancho de banda, Controla cambios y actualizaciones en la red de tal modo que ocasionen las menos interrupciones posibles, en el servicio a los usuarios.
 
+Mejorar la continuidad en la operación de la red con mecanismos adecuados de control y monitoreo, de resolución de problemas y de suministro de recursos.
 
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
+Hace la red más segura, protegiéndola contra el acceso no autorizado, haciendo imposible que personas ajenas puedan entender la información que circula en ella.
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/juanleon124/OVI-Administracion-de-Redes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
